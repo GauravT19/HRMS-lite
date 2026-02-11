@@ -3,7 +3,7 @@
 A lightweight, robust backend system for managing employee records and tracking daily attendance. Designed with an **API-First architecture**, utilizing FastAPI's interactive documentation as the primary administrative interface.
 
 ## 🚀 Live Application
-- **Live Deployment:** [PASTE YOUR RENDER URL HERE]
+- **Live Deployment:** 
 - **GitHub Repository:** https://github.com/GauravT19/HRMS-lite
 
 > **Note:** Clicking the Live Deployment link will open the **Interactive Dashboard (Swagger UI)** immediately.
