@@ -4,7 +4,7 @@ A lightweight, robust backend system for managing employee records and tracking 
 
 ## 🚀 Live Application
 - **Live Deployment:** [PASTE YOUR RENDER URL HERE]
-- **GitHub Repository:** [PASTE YOUR GITHUB REPO LINK HERE]
+- **GitHub Repository:** https://github.com/GauravT19/HRMS-lite
 
 > **Note:** Clicking the Live Deployment link will open the **Interactive Dashboard (Swagger UI)** immediately.
 
